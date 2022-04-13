@@ -1,6 +1,6 @@
-# 🚀 Getting started with Strapi
+# 🚀 Headless CMS for Hoyo Negro Project in R3V.
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+built for the sister project, R3V https://github.com/flashruler/r3v-NextJS
 
 ### `develop`
 
